@@ -1,8 +1,8 @@
 # MFU Page Replacement Algorithm
 
-   This program implements the [*FIFO (First-In-First-Out)](https://www.scaler.com/topics/fifo-page-replacement-algorithm/) Page Replacement Algorithm* The FIFO Page Replacement Algorithm is a simple 
-   paging algorithm where the page that entered the memory first is evicted first when the memory is full. This algorithm is based on a 
-   queue data structure. It maintains a queue of pages with a specified capacity and keeps track of page faults.
+   This program implements the [*FIFO (First-In-First-Out) Page Replacement Algorithm*](https://www.scaler.com/topics/fifo-page-replacement-algorithm/).
+   The FIFO Page Replacement Algorithm is a simple paging algorithm where the page that entered the memory first is evicted first when the memory is full. 
+   This algorithm is based on a queue data structure. It maintains a queue of pages with a specified capacity and keeps track of page faults.
 
 
 ## Usage
