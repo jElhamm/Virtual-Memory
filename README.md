@@ -35,6 +35,7 @@
 
    In order to better understand the performance of the Ypage representation algorithms, we have discussed them together:
    * Implementation of Page Replacement Algorithms:
+
    | Algorithms_1 | Algorithms_2 | Algorithms_3 | Algorithms_4|
    |----------------------------------------------------------|
    | First-In, First-Out | Least Frequently Used | Least Recently Used | Most Frequently Used |
@@ -51,7 +52,7 @@
 
    * Follow the steps below:
 
-        # Example installation commands or code snippets
+        Example installation commands or code snippets:
         git clone https://github.com/jElhamm/Virtual-Memory.git
         cd Virtual-Memory
         make
