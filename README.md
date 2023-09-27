@@ -46,13 +46,14 @@
    to enhance knowledge of memory management techniques and the challenges involved in efficiently utilizing system resources.
 
 ## Installation
+        
+   * Clone the repository to your local machine using the following command:
 
-   * Follow the steps below:
+    [git clone https://github.com/jElhamm/Virtual-Memory.git]
 
-        Example installation commands or code snippets:
-        [git clone https://github.com/jElhamm/Virtual-Memory-.git](https://github.com/jElhamm/Virtual-Memory)
-        cd Virtual-Memory
-        make
+   * Enter the cloned directory:
+
+    cd Virtual-Memory
 
 ## Usage
 
