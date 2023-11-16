@@ -37,7 +37,7 @@
    * [First-In, First-Out](Performance%20of%20Page%20Replacement%20Algorithms/First-In%2C%20First-Out)
    * [Least Frequently Used](Performance%20of%20Page%20Replacement%20Algorithms/Least%20Frequently%20Used)
    * [Least Recently Used](Performance%20of%20Page%20Replacement%20Algorithms/Least%20Recently%20Used)
-   * [Most Frequently Used](Performance%20of%20Page%20Replacement%20Algorithms/sMost%20Frequently%20Used)
+   * [Most Frequently Used](Performance%20of%20Page%20Replacement%20Algorithms/Most%20Frequently%20Used)
 
 ## Purpose
 
