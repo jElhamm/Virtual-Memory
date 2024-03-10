@@ -64,8 +64,14 @@
    2. Follow the on-screen instructions to interact with the virtual memory system.
 
 
-## License
+## References
 
    BOOK: 
    * Modern Operating Systems Book by Andrew Tanenbaum.
    * Operating System Concepts Book by Abraham Silberschatz.
+
+
+## License
+
+   This repository is licensed under the MIT License.
+   See the [LICENSE](./LICENSE) file for more details.
